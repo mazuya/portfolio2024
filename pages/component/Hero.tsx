@@ -1,5 +1,4 @@
 import React from "react";
-//import myLogo from "/mylogo.png";
 import Image from "next/image";
 
 function Hero() {

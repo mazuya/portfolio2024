@@ -1,11 +1,9 @@
 import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 
 function Navbar() {
   const [nav, setNav] = useState(true);
-  //const [sidebar, setSidebar] = useState(false);
 
   const handleNav = () => {
     setNav(!nav);

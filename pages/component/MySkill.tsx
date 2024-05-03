@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-//import myLogo from "/mylogo.png";
 import Image from "next/image";
 import { FaArrowRight } from "react-icons/fa";
 import Link from "next/link";
