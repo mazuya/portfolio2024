@@ -110,7 +110,7 @@ function MySkill() {
                 From the initial concept and design phases, I focused on
                 creating user-friendly and visually appealing interfaces.
                 Utilizing the latest front-end technologies, I ensured the
-                website's responsiveness across various devices for optimal
+                websites responsiveness across various devices for optimal
                 performance.
               </p>
             </div>
@@ -155,7 +155,7 @@ function MySkill() {
               </h1>
               <p className="text-[0.8rem] mt-3">
                 My main responsibility is working on the Front-end, developing
-                the company's main website using Next.js (React Typescript), and
+                the companys main website using Next.js (React Typescript), and
                 undertaking outsourced projects for school and farmer websites.
                 Additionally, I have had the opportunity to work on Backend
                 tasks, handling various APIs, services, and even developing
@@ -203,7 +203,7 @@ function MySkill() {
               </div>
 
               <p className="text-[0.8rem] mt-5">
-                <span className="font-bold">Convert design to code:</span> I'm
+                <span className="font-bold">Convert design to code:</span> Im
                 most responsible for converting designs from Design team into
                 code and deploying my work onto the production website.
                 <Link
@@ -251,12 +251,12 @@ function MySkill() {
               <p className="mt-5 text-[0.65rem] md:text-xs">
                 The Chula High Tech Sandbox competition is a contest where
                 participants within the university come together to do anything
-                related to tech, whether it's applications or websites. My team
-                secured the 3rd prize with a project called 'Hueme.'
-                Furthermore, the competition featured distinguished guest
-                lecturers, such as executives and high-level professionals, who
-                provided feedback on our projects and ideas for further
-                development and real-life applications.
+                related to tech, whether its applications or websites. My team
+                secured the 3rd prize with a project called Hueme. Furthermore,
+                the competition featured distinguished guest lecturers, such as
+                executives and high-level professionals, who provided feedback
+                on our projects and ideas for further development and real-life
+                applications.
               </p>
               <p className="mt-5 text-[0.65rem] md:text-xs">
                 Throughout the competition, there were technology training
@@ -289,7 +289,7 @@ function MySkill() {
                 https://mazuya-cms.netlify.app/
               </Link>
               <p className="text-white text-[0.65rem] md:text-[0.8rem] mt-3">
-                I've developed a commission information website for freelance
+                Ive developed a commission information website for freelance
                 artists using NEXT.js, which allows clients to view pricing,
                 detailed commission information, and check their place in the
                 queue. At first, I created the website for myself as a freelance
